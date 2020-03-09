@@ -35,4 +35,4 @@ Maka, akan terbentuk:
 - index.html
 - .nojekyll
 
-Nah, `.nojekyll` itu supaya file dan folder di situ nggak diolah dengan Jekyll (kalau dj Github). `index.html` adalah kunci sistem ini. Jadi, jangan diubah-ubah. `README.md` adalah halaman beranda website kita.
+Nah, `.nojekyll` itu supaya file dan folder di situ nggak diolah dengan Jekyll (kalau di Github). `index.html` adalah kunci sistem ini. Jadi, jangan diubah-ubah. `README.md` adalah halaman beranda website kita.
